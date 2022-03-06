@@ -43,7 +43,7 @@ client.on('messageCreate', async message => {
             type: method,
             args: {
               method: 'GET',
-              path: `https ://${args[1]}`,
+              path: `https://${args[1]}`,
               interval_ms: 1
             }
           });
