@@ -1,6 +1,6 @@
 # db1000n target generator
 
-This app fetches targets for (db1000n)[] from discord channel, using this schema:
+This app fetches targets for [db1000n](https://github.com/Arriven/db1000n) from discord channel, using this schema:
 
 ```
 method ip:port
@@ -37,7 +37,7 @@ npm run fetch
 Serve config.json
 
 ```bash
-npm run fetch
+npm run server
 ```
 
 ## Configuration
