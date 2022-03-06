@@ -37,7 +37,7 @@ npm run fetch
 Serve config.json
 
 ```bash
-npm run fetch
+npm run server
 ```
 
 ## Configuration
